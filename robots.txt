@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-rr6m9u.idncuan.xyz/sitemap.xml
